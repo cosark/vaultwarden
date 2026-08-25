@@ -75,6 +75,10 @@ While Vaultwarden is based upon the [Rocket web framework](https://rocket.rs) wh
 > [!TIP]
 >**For more detailed examples on how to install, use and configure Vaultwarden you can check our [Wiki](https://github.com/dani-garcia/vaultwarden/wiki).**
 
+### One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/Vaultwarden/)
+
 ### Docker/Podman CLI
 
 Pull the container image and mount a volume from the host for persistent storage.<br>
